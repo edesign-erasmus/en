@@ -27,6 +27,10 @@
 
 /* YO, tüübid! Override existing or create new CSS rules here.  */
 
+blockquote {
+    color: currentcolor;
+}
+
 .important {
     border: 1px solid var(--ed-c-gray-80);
     box-shadow: var(--ed-base-05) 0 0 0 var(--ed-c-yellow) inset;

@@ -60,18 +60,26 @@ Where are we talking about ```<video>```?
 - **[GIF](https://en.wikipedia.org/wiki/GIF)** - mostly for animations
     - [Animated GIFs](https://www.schoolofmotion.com/blog/gif-in-after-effects)
 - **[WebP](https://developers.google.com/speed/webp)**  
-    - Supports animation
-    - Supports transparency
+    - **Supports animation**
+    - **Supports transparency**
     - [Better quality/size ratio](https://insanelab.com/blog/web-development/webp-web-design-vs-jpeg-gif-png/) than JPG or PNG
     - Helper tools and utilities - although there is pretty good browser support, WebP is not very widely supported by the mainstream design programs. That's why we need some extra tools or utilities to generate the WebP files. 
         - [Google converters](https://developers.google.com/speed/webp/docs/precompiled)
         - [Photoshop plugin](https://developers.google.com/speed/webp/docs/webpshop)
         - [CloudConvert](https://cloudconvert.com/webp-converter)
         - [EzGif WebP converter](https://ezgif.com/webp-maker)
+- **[AVIF](https://jakearchibald.com/2020/avif-has-landed/)**
+    - **Supports animation**
+    - **Supports transparency**
+    - Often **best quality/size ratio**
+    - 🛑 Watch out for browser support - use fallbacks!
+    - Helper tools and utilities 
+        - [Avif.io](https://avif.io/)
+        - [Squoos.app](https://squoosh.app/)
 - When to choose each format
     - 📌[JPG vs PNG vs GIF vs WebP](https://wpmudev.com/blog/best-image-formats-png-vs-jpg-svg-gif-webp/)
 
-⚠ *<mark>AVIF, JPEG XL, JPEG XR</mark> etc formats should be considered to cover later, when/if wider browser support becomes available* 
+⚠ *<mark>JPEG XL, JPEG XR</mark> etc formats should be considered to cover later, when/if wider browser support becomes available* 
 
 
 
@@ -99,5 +107,7 @@ As you can read from [this Dev.to article](https://dev.to/jsco/understanding-ima
 - Use **WEBP for everything else** with either JPG or PNG as a fallback
 - Use **JPEG** for Photos (as a **fallback for webp**)
 - Use **PNG** for logos/illustrations etc **when no SVG** is available (as a **fallback for webp**)
+
+
 
 
