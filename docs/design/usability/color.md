@@ -4,20 +4,42 @@ One aspect in our designs, that is not only important for aesthetic aspect, but 
 
 Since you already know from your previous courses about color theory, harmonies, *gestalt* theory etc, let's focus here to color on screen.
 
+
+
+
+
+## Practical guidelines
+
+You can find a lot of good practical tips about how to use color here:
+- [UXPlanet: Ultimate Guide to Color in UX/UI Design](https://uxplanet.org/ultimate-guide-to-color-in-ux-ui-design-de8eb104b5d3) 📌
+- [Learn UI: Color in UI Design: A (Practical) Framework](https://learnui.design/blog/color-in-ui-design-a-practical-framework.html)
+- [Flux Academy: How to strategically use color in website design](https://www.flux-academy.com/blog/how-to-strategically-use-color-in-website-design)
+
+
+## Other useful content
+
+- [Smashing Magazine: A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
+- **Baseline.hq design course colour section**
+    - [Colour Basics](https://baselinehq.com/4-colour-basics.html)
+    - [The Structure of Colour Palettes](https://baselinehq.com/4-structure-of-colour-palettes.html)
+    - [How to Create a Colour Palette](https://baselinehq.com/4-how-to-create-a-colour-palette.html)
+    - [Using Colour in Figma](https://baselinehq.com/4-using-colour-in-figma.html)
+    - [Working With Colour](https://baselinehq.com/4-working-with-colour.html)
+    - [Ten Colour Tips](https://baselinehq.com/4-10-colour-tips.html)
+
+
+
+
+
 ## Rune Madsens book
 
-Let's start with **Rune Madsen**, who has written about color in his magnificent book [Programming Design Systems](https://programmingdesignsystems.com/). This should give us a solid foundation to understand color spaces and models. 
+**Rune Madsen** has written about color in his magnificent book [Programming Design Systems](https://programmingdesignsystems.com/). This should give us a solid foundation to understand the theory of color spaces and models. 
 
 - [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html#a-short-history-of-color-theory-xZzRFOZ)
 - [Color models and color spaces](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html#color-models-and-color-spaces-JDQ1fRD)
 - [Color schemes](https://programmingdesignsystems.com/color/color-schemes/index.html#color-schemes-dV9Rf6L)
 
 
-## Other content
-
-- [Ultimate Guide to Color in UX/UI Design](https://uxplanet.org/ultimate-guide-to-color-in-ux-ui-design-de8eb104b5d3) 📌
-- [Smashing Magazine: A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
-- [Flux Academy: How to strategically use color in website design](https://www.flux-academy.com/blog/how-to-strategically-use-color-in-website-design)
 
 
 ## Color and accessibility
@@ -26,9 +48,9 @@ Let's start with **Rune Madsen**, who has written about color in his magnificent
 - a11y checkers (stark etc)
 - color blindness
 
+
 ## Tools and resources
 
-- palette generators
-
-
+- [SmashingMag: Color Tools And Resources](https://www.smashingmagazine.com/2021/07/color-tools-resources/)
+- add some more
 

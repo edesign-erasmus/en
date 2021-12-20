@@ -6,6 +6,9 @@
 
 *a11y?* What [that means](https://www.boia.org/blog/what-is-a11y)? 
 
+
+## Disabilities
+
 What kind of disabilites are we talking about?
 
 1. **Visual** (e.g., color blindness)
@@ -14,12 +17,15 @@ What kind of disabilites are we talking about?
 4. **Seizures** (especially photosensitive epilepsy)
 5. **Learning/cognitive** (e.g., dyslexia)
 
-But ability barriers can arise for any other user:
+## Disturbed cognition
+
+But ability barriers can arise for any user:
 
 - **Incidental** (e.g., sleep-deprivation)
 - **Environmental** (e.g., using a mobile device underground)
 
-Read more: [Interaction-Design.org: Accessibility](https://www.interaction-design.org/literature/topics/accessibility)
+Read more: 📌[Interaction-Design.org: Accessibility](https://www.interaction-design.org/literature/topics/accessibility)
+
 
 
 <div class="important">
@@ -34,6 +40,7 @@ The **World Wide Web Consortium** (W3C) [Web Content Accessibility Guidelines (W
 
 - [The a11y Project](https://www.a11yproject.com/)
 - [a11y.me](https://a11y.me/)
+- [ARIA](https://www.youtube.com/watch?v=0hqhAIjE_8I)
 - [webAIM](https://webaim.org/)
 - [a11y in Chrome DevTools](https://www.smashingmagazine.com/2020/08/accessibility-chrome-devtools/)
 - [a11y in Firefox](https://www.youtube.com/watch?v=7mqqgIxX_NU&t=19s) plus a nice explanation about DOM and Accessibility trees
