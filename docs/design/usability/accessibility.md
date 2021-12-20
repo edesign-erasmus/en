@@ -36,6 +36,8 @@ When some *usability* aspects may sound subjective, **accessibility** requires c
 
 The **World Wide Web Consortium** (W3C) [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) is the most common and known standard for creating accessible experience. Different countries may have their own legislation acts, but they often refer to the WCAG standards.
 
+
+
 ## Useful links and resources
 
 - [The a11y Project](https://www.a11yproject.com/)
