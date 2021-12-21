@@ -10,10 +10,18 @@ Since you already know from your previous courses about color theory, harmonies,
 
 ## Practical guidelines
 
+
 You can find a lot of good practical tips about how to use color here:
 - [UXPlanet: Ultimate Guide to Color in UX/UI Design](https://uxplanet.org/ultimate-guide-to-color-in-ux-ui-design-de8eb104b5d3) 📌
 - [Learn UI: Color in UI Design: A (Practical) Framework](https://learnui.design/blog/color-in-ui-design-a-practical-framework.html)
 - [Flux Academy: How to strategically use color in website design](https://www.flux-academy.com/blog/how-to-strategically-use-color-in-website-design)
+
+📺 Video from **DesignerUp**: "Super Practical Guide to Color Theory, Color Models and Perfect Color Palettes"
+
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GyVMoejbGFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 ## Other useful content
