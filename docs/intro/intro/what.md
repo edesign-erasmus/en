@@ -1,7 +1,5 @@
 # What is Interactive Graphics?
 
-<duration-snippet s="2" />
-
 
 ## Interactive Graphics? 🤷‍♀️
 
@@ -15,35 +13,33 @@ We use the term *Interactive Graphics* here, because our content correspond to s
 
 </div>
 
-::: tip
+<!-- ::: tip
 Did you notice the section with a stopwatch below the main heading at the top of the page 👆. From this you see, how many hours every topic takes and what kind of work is planned for this. Here the stopwatch says that we'll do a very brief introduction **during 2 hours at school**. And that's it. Because you'll learn most of the things and most of the time **at your workplace**.
-::: 
+:::  -->
 
 
+## Foundations of User Experience 
 
+📺 Let's start with a video **"What Is UX Design? - An Introduction"** from Career Foundry Youtube channel
 
-
-
-
-
-## What distinguishes digital and traditional graphic design
-
-- GoStudy article: [Graphic vs Digital Design](https://www.gostudy.com.au/blog/graphic-design-vs-digital-design/)
-- Webflow article: [7 ways web design is different than graphic design](https://webflow.com/blog/web-design-vs-graphic-design)
-- Adobe: [Digital vs Graphic Design](https://xd.adobe.com/ideas/principles/web-design/digital-vs-graphic-design/)
-
-
-<div class="important">
-    
-### Main points:
-    
-- print vs screen
-- static vs dynamic elements
-- fixed vs responsive "canvas"
-- final vs iterations
-- data analysis
-
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ziQEqGZB8GE" title="What Is UX Design? - An Introduction (2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+
+📺 ...and another one from **Google's UX Design Certificate** program
+
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2QQQtiFwXjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+
+
+
 
 
 
@@ -68,18 +64,35 @@ Did you notice the section with a stopwatch below the main heading at the top of
 
 
 
-
-## User experience (UX)
-
-
-
-
-
-
-
-
 ## The roles of UI/UX designer
 
 Springboard.com has a [nice article](https://www.springboard.com/library/ui-ux-design/job-description/) about this.
 
 
+
+📺 This Is What A Typical Day In The Life Of A UX Designer Looks Like from **Career Foundry**
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ORZlHuD22UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+## What distinguishes digital and traditional graphic design
+
+- GoStudy article: [Graphic vs Digital Design](https://www.gostudy.com.au/blog/graphic-design-vs-digital-design/)
+- Webflow article: [7 ways web design is different than graphic design](https://webflow.com/blog/web-design-vs-graphic-design)
+- Adobe: [Digital vs Graphic Design](https://xd.adobe.com/ideas/principles/web-design/digital-vs-graphic-design/)
+
+
+<div class="important">
+    
+### Main points:
+    
+- print vs screen
+- static vs dynamic elements
+- fixed vs responsive "canvas"
+- final vs iterations
+- data analysis
+
+</div>

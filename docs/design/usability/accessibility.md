@@ -6,6 +6,7 @@
 
 *a11y?* What [that means](https://www.boia.org/blog/what-is-a11y)? 
 
+**Adobe XD Ideas** has also a good article: [What is Accessible Design?](https://xd.adobe.com/ideas/principles/web-design/what-is-accessible-design/)
 
 ## Disabilities
 

@@ -51,6 +51,8 @@ There's a lot of information out there. Sometimes it's nice if someone goes thro
 ## Twittagramtube
 
 - [Instagram #tags](https://www.instagram.com/explore/tags/uiux/) - search for whatever tag/topic
+- [Google Career Certificates in YT](https://www.youtube.com/c/GoogleCareerCertificates/playlists)
+- [Career Foundry in YT](https://www.youtube.com/user/careerfoundry)
 - [TheFutur](https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog)
 - [Adobe CC channel](https://www.youtube.com/channel/UCL0iAkpqV5YaIVG7xkDtS4Q) has some nice content
 - [Aiga Design](https://www.youtube.com/channel/UC_oEd1TQbuVZzr_Kw73XDEQ)
