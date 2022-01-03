@@ -20,7 +20,7 @@ Here are the wonderful sources for this part of our curriculum. Definately check
 - [Nielsen Norman Group](https://www.nngroup.com/articles/)
 - [UX Planet](https://uxplanet.org/)
 - [UXPin blog](https://www.uxpin.com/studio/blog/)
-- [Muzli](https://medium.muz.li/)
+- [Dev.to](https://dev.to/)
 - [Codrops Collective](https://tympanus.net/codrops/collective/)
 - [In The Loop](https://maze.co/blog/design-product/)
 - [Career Foundry](https://careerfoundry.com/en/blog/ux-design/)
