@@ -28,7 +28,7 @@ But first, let's try to define web animations with a help of Dan Parry:
     }
 </style>
 
-As you probably know by now, the visual properties of UI ```<elements>``` are defined by **CSS Styles**. If you **change any of those properties** (i.e. background-color) **over time**, you've got yourself <span class="animated-span">**an&nbsp;animation**</span>
+As you probably know by now, the visual properties of UI ```<elements>``` are defined by **CSS Styles**. If you **change any of those properties** (i.e. background-color and border-radius) **over time**, you've got yourself <span class="animated-span">**an&nbsp;animation**</span>
 
 
 <div class="important">
@@ -42,7 +42,9 @@ We also cover animating with **Javascript**, but here is important to understand
 
 ## CSS
 
-There are two types – ***CSS-transitions*** and ***CSS-animations***. *Transition* is usually a change from **one *state* to another**, like when an object becomes active or passive. *CSS-animation* is **keyframe based** change over time, that can stop at the end or go back to beginnig, repeat itself for a couple of times or go on forever, change direction like a pendulum etc.
+There are two types – ***CSS-transitions*** and ***CSS-animations***. 
+- *Transition* is usually a change from **one *state* to another**, like when an object becomes active or passive when it is clicked for example. 
+- *CSS-animation* is **keyframe based** change over time, that can stop at the end or go back to beginnig, repeat itself for a couple of times or go on forever, change direction like a pendulum etc.
 
 ### Transitions
     
@@ -54,10 +56,37 @@ There are two types – ***CSS-transitions*** and ***CSS-animations***. *Transit
 📌 Here is another [fantastic interactive guide of **css-animation**](https://www.joshwcomeau.com/animation/keyframe-animations/) by... surprise! Josh W Comeau again!
 
 
+#### Tools and utilities
+
+There are some useful tools, that may help you to generate CSS code for nice looking animations
+
+- [Animista](https://animista.net/)
+- [Magic Effects](https://www.minimamente.com/project/magic/)
+- [Bounce](http://bouncejs.com/)
+- [Keyframes.app](https://keyframes.app/animate/)
+- [Vivify](http://vivify.mkcreative.cz/)
+- [Animated Background Generator](https://wweb.dev/resources/animated-css-background-generator/)
+
+
+
+
+
 
 
 ## JavaScript animations
 
-- Frameworks
-- Tools (Lottie)
+Sometimes you need more control over your animations: whether you build complex timelines of different animations or have advanced interactivity. This is where Javascript comes handy. You may, of course, write your own control functions with "vanilla" Javascript, but it is often easier to use JS libraries &nbsp; tools that nice people have made for us. Here are some of them: 
+
+### JS animation frameworks
+
+- [Anime.js](https://animejs.com/)
+- [GSAP](https://greensock.com/gsap/)
+- [Mo.js](https://mojs.github.io/)
+- [Ani.js](https://anijs.github.io/)
+- [Kute.js](https://thednp.github.io/kute.js/)
+- [Lottie](http://airbnb.io/lottie/#/)
+
+Each of those libraries have their own learning curve and slightly different purpose, so to get more familiar with them will be your task. And again – one thing is for sure – there will be a dozen of exciting new tools available by next month and a month after that and after that, so never quit looking and learning! 
+
+Find out more: [Speckyboy: 25 Free CSS Animation Libraries, Tools & Generators](https://speckyboy.com/css-animation/)
 
