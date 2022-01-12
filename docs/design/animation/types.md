@@ -31,16 +31,7 @@ But first, let's try to define web animations with a help of Dan Parry:
 As you probably know by now, the visual properties of UI ```<elements>``` are defined by **CSS Styles**. If you **change any of those properties** (i.e. background-color and border-radius) **over time**, you've got yourself <span class="animated-span">**an&nbsp;animation**</span>
 
 
-<div class="important">
-
-So, it means, that we mostly talk about **CSS-animations**.<br>
-We also cover animating with **Javascript**, but here is important to understand, that with Javascript we often just **modify the same CSS values**.
-<br><small>*(NOTE: There are a few exceptions – when we modify **document** or **window** properties (like scroll position for example))*</small>
-
-</div>
-
-
-## CSS
+## Animating with CSS
 
 There are two types – ***CSS-transitions*** and ***CSS-animations***. 
 - *Transition* is usually a change from **one *state* to another**, like when an object becomes active or passive when it is clicked for example. 
@@ -73,9 +64,9 @@ There are some useful tools, that may help you to generate CSS code for nice loo
 
 
 
-## JavaScript animations
+## Animating with JavaScript
 
-Sometimes you need more control over your animations: whether you build complex timelines of different animations or have advanced interactivity. This is where Javascript comes handy. You may, of course, write your own control functions with "vanilla" Javascript, but it is often easier to use JS libraries &nbsp; tools that nice people have made for us. Here are some of them: 
+Sometimes you need more control over your animations: whether you build complex timelines of different animations or have advanced interactivity. This is where Javascript comes handy. You may, of course, write your own control functions with "vanilla" Javascript and [Web Animation API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API), but it is often easier to use JS libraries &nbsp; tools that nice people have made for us. Here are some of them: 
 
 ### JS animation frameworks
 
@@ -86,7 +77,7 @@ Sometimes you need more control over your animations: whether you build complex 
 - [Kute.js](https://thednp.github.io/kute.js/)
 - [Lottie](http://airbnb.io/lottie/#/)
 
-Each of those libraries have their own learning curve and slightly different purpose, so to get more familiar with them will be your task. And again – one thing is for sure – there will be a dozen of exciting new tools available by next month and a month after that and after that, so never quit looking and learning! 
+Each of those libraries have their own learning curve and sometimes slightly different purpose, so to get more familiar with them will be your task. And again – one thing is for sure – there will be a dozen of exciting new tools available by next month and a month after that and after that, so never quit looking and learning! 
 
 Find out more: [Speckyboy: 25 Free CSS Animation Libraries, Tools & Generators](https://speckyboy.com/css-animation/)
 

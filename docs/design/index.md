@@ -26,3 +26,5 @@ Here are the wonderful sources for this part of our curriculum. Definately check
 - [Career Foundry](https://careerfoundry.com/en/blog/ux-design/)
 - [XD Ideas](https://xd.adobe.com/ideas/)
 - [Figma blog](https://www.figma.com/blog/commentary/)
+- [Project Awesome](https://project-awesome.org/)
+- etc
