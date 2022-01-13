@@ -9,6 +9,8 @@ But first, let's try to define web animations with a help of Dan Parry:
 
 
 
+
+
 <style>
     .animated-span {
 
@@ -80,4 +82,7 @@ Sometimes you need more control over your animations: whether you build complex 
 Each of those libraries have their own learning curve and sometimes slightly different purpose, so to get more familiar with them will be your task. And again – one thing is for sure – there will be a dozen of exciting new tools available by next month and a month after that and after that, so never quit looking and learning! 
 
 Find out more: [Speckyboy: 25 Free CSS Animation Libraries, Tools & Generators](https://speckyboy.com/css-animation/)
+
+
+
 

@@ -32,6 +32,10 @@ blockquote {
     color: currentcolor;
 }
 
+.page-footer .link, .page-footer .last-updated {
+    font-size: 75%;
+}
+
 .important {
     border: 1px solid var(--ed-c-gray-80);
     box-shadow: var(--ed-base-05) 0 0 0 var(--ed-c-yellow) inset;
