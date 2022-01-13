@@ -27,8 +27,13 @@
 
 /* YO, tüübid! Override existing or create new CSS rules here.  */
 
+
 blockquote {
     color: currentcolor;
+}
+
+.page-footer .link, .page-footer .last-updated {
+    font-size: 75%;
 }
 
 .important {

@@ -27,6 +27,8 @@ You can find a lot of good practical tips about how to use color here:
 ## Other useful content
 
 - [Smashing Magazine: A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)
+- [HTMLBurger: Psychology of Color to Improve Your Web Designs: Part 1](https://htmlburger.com/blog/psychology-of-color-improve-web-design/)
+- [HTMLBurger: Psychology of Color to Improve Your Web Designs: Part 2](https://htmlburger.com/blog/psychology-of-colors-web-design-pt-2/)
 - **Baseline.hq design course colour section**
     - [Colour Basics](https://baselinehq.com/4-colour-basics.html)
     - [The Structure of Colour Palettes](https://baselinehq.com/4-structure-of-colour-palettes.html)
@@ -60,5 +62,11 @@ You can find a lot of good practical tips about how to use color here:
 ## Tools and resources
 
 - [SmashingMag: Color Tools And Resources](https://www.smashingmagazine.com/2021/07/color-tools-resources/)
-- add some more
+- [Coolors.co palette generator](https://coolors.co/)
+- [Colordesigner.io palette generator](https://colordesigner.io/)
+- [Mycolor.space palette generator](https://mycolor.space/)
+- [Eva.design palette generator](https://colors.eva.design/)
+- [Palette.app generator](https://palettte.app/)
+- [Happyhues.co - curated palettes](https://www.happyhues.co/)
+- [Colorhunt.co - curated palettes](https://colorhunt.co/palettes/space)
 
