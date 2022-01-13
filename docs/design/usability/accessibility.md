@@ -1,4 +1,4 @@
-# Accessibility *(ayy1)* 
+# Accessibility *(a11y)* 
 
 > *Accessibility in the sense considered here refers to the design of products, devices, services, or environments so as to be usable by people with disabilities.*
 > 
