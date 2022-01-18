@@ -15,7 +15,7 @@ Prototypes are made both for physical and digital products. Testing helps us dis
 
 Here we can see an actual testing in progress:
 
-<div class="video-respnosive">
+<div class="video-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aDqbMOI13o4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
