@@ -125,7 +125,7 @@ function getDesignSidebar() {
       children: [
         { text: "Design patterns", link: "/design/composition/patterns" },
         { text: "Layout / grid", link: "/design/composition/layout" },
-        { text: "Visual hierarchy", link: "/design/composition/hierarchy" },
+        { text: "UI design principles", link: "/design/composition/principles" },
       ],
     },
     {
@@ -141,10 +141,9 @@ function getDesignSidebar() {
       children: [
         { text: "Analyze", link: "/design/prototype/analyze" },
         { text: "Pen and paper", link: "/design/prototype/paper" },
-        { text: "Lo-Fi prototypes", link: "/design/prototype/lofi" },
+        { text: "Prototypes", link: "/design/prototype/prototyping" },
         { text: "Software", link: "/design/prototype/software" },
-        { text: "Interaction", link: "/design/prototype/interaction" },
-        { text: "Hi-Fi prototypes", link: "/design/prototype/hifi" },
+        { text: "Interaction principles", link: "/design/prototype/interaction" },
       ],
     },
   ];

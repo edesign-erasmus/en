@@ -23,6 +23,12 @@ You can find a lot of good practical tips about how to use color here:
 </div>
 
 
+📺 Another useful and super practical video by Joseph from LearnSketch․com  
+
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9S8LGdpNh4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Other useful content
 
