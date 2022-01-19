@@ -1,6 +1,6 @@
 # Analyzing
 
-It very important to understand, what and why are we making, before we just start to "design stuff". Analyze! Understand the problem, do background research, if needed and so on. Some of it we discussed back in [project management](/en/intro/project/project-management).
+It very important to understand, what and why are we making, before we just start to "design stuff". Analyze! Understand the problem, do background research, if needed and so on. Some of it we discussed back in [project management](../../intro/project/project-management).
 
 ## Sitemap
 
