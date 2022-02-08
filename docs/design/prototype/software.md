@@ -13,7 +13,7 @@ Furtermore, they have a ubercool annual [DesignTools Survey](https://uxtools.co/
 
 Every design school or team has their own stack of tools, so it is hard to tell, which one to prefer. Actually, it doesn't matter, once you know the principles how they work, it's not that hard to 
 
-For now we concentrate on <mark>[Figma](https://figma.com)</mark>, because **it is good**, popular and has a **free educational plan**🙌! Oh... and community! Oh... not to mention [FigJam](https://www.figma.com/figjam/)!
+For now we concentrate on <mark>[Figma](https://figma.com)</mark>, because **it is good**, popular and has a **free educational plan**🙌! Oh... and community with tons of resources and plugins! ...not to mention [FigJam](https://www.figma.com/figjam/)!
 
 
 
@@ -54,4 +54,4 @@ The main concepts or keywords with Figma are:
     - sharing views
     - sharing code (mostly CSS)
 
-📌Here is a <mark>[10-hour free course from Freecodecamp](https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/)</mark> to get you going!
+📌Here is a <mark>[free Figma course from Freecodecamp](https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/)</mark> to get you going!

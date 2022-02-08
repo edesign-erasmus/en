@@ -71,22 +71,22 @@ At some point you also need something to keep track of more features, people, ta
 - [Agantty](https://agantty.com/) - [Gantt's](https://en.wikipedia.org/wiki/Gantt_chart) graphs
 
 
-Read more about project management at the [Frontend part]<!--(../../../frontend/tooling/project-management)--> (2nd learning outcome) of this curriculum.
+
 
 
 
 
 ## Code managment and versioning
 
-This topic is discussed in detail in the [Frontend part]<!--(../../../frontend/tooling/versioning)--> (2nd learning outcome) of this curriculum.
+This topic is discussed in detail in the [Frontend part](../../frontend/tooling/versioning) of this curriculum.
+
+
 
 
 
 
 
 ## Documenting and archiving
-
-
 
 ::: warning NB!
 
@@ -97,6 +97,9 @@ This section is originally a topic under Designing learning output in the curric
 - naming
 - solutions / versioning
 - cloud
+
+
+
 
 
 
