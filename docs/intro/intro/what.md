@@ -18,7 +18,7 @@ Did you notice the section with a stopwatch below the main heading at the top of
 :::  -->
 
 
-## Foundations of User Experience 
+## Foundations of User Experience (UX) 
 
 📺 Let's start with a video **"What Is UX Design? - An Introduction"** from Career Foundry Youtube channel
 
@@ -26,7 +26,7 @@ Did you notice the section with a stopwatch below the main heading at the top of
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ziQEqGZB8GE" title="What Is UX Design? - An Introduction (2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
+&nbsp;
 
 📺 ...and another one from **Google's UX Design Certificate** program
 
@@ -47,9 +47,16 @@ Did you notice the section with a stopwatch below the main heading at the top of
 
 ## User interface (UI)
 
+<div class="important">
 
+**A user interface (UI) is the space where interactions between humans and machines occur.**
+In the era of digital machines, the user interface is most often something thet yo see on your screen. But there are some other options too...
 
-[The World Is Our Interface – The Evolution of UI Design](https://www.toptal.com/designers/ui/touch-the-world-is-our-interface)
+</div>
+
+&nbsp;
+
+A little bit of history, background (and future): [The World Is Our Interface – The Evolution of UI Design](https://www.toptal.com/designers/ui/touch-the-world-is-our-interface)
 
 - Physical UIs
     - [Control panels](https://control--panel.com/)
