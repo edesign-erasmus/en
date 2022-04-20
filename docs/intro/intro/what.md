@@ -1,7 +1,5 @@
 # What is Interactive Graphics?
 
-<duration-snippet s="2" />
-
 
 ## Interactive Graphics? 🤷‍♀️
 
@@ -15,13 +13,74 @@ We use the term *Interactive Graphics* here, because our content correspond to s
 
 </div>
 
-::: tip
+<!-- ::: tip
 Did you notice the section with a stopwatch below the main heading at the top of the page 👆. From this you see, how many hours every topic takes and what kind of work is planned for this. Here the stopwatch says that we'll do a very brief introduction **during 2 hours at school**. And that's it. Because you'll learn most of the things and most of the time **at your workplace**.
-::: 
+:::  -->
+
+
+## Foundations of User Experience (UX) 
+
+📺 Let's start with a video **"What Is UX Design? - An Introduction"** from Career Foundry Youtube channel
+
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ziQEqGZB8GE" title="What Is UX Design? - An Introduction (2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+&nbsp;
+
+📺 ...and another one from **Google's UX Design Certificate** program
+
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2QQQtiFwXjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
 
+
+
+
+
+
+
+
+
+## User interface (UI)
+
+<div class="important">
+
+**A user interface (UI) is the space where interactions between humans and machines occur.**
+In the era of digital machines, the user interface is most often something thet yo see on your screen. But there are some other options too...
+
+</div>
+
+&nbsp;
+
+A little bit of history, background (and future): [The World Is Our Interface – The Evolution of UI Design](https://www.toptal.com/designers/ui/touch-the-world-is-our-interface)
+
+- Physical UIs
+    - [Control panels](https://control--panel.com/)
+    - [Everyday objects](https://collection.sciencemuseumgroup.org.uk/search/objects/images/categories/domestic%20appliances)
+- Digital UIs
+    - [Text / Command Line Interfaces (CLI)](https://www.youtube.com/watch?v=4RPtJ9UyHS0)
+    - [Graphic User Interfaces (GUI)](https://www.youtube.com/watch?v=XIGSJshYb90)
+    - [Voice controlled User Interface](https://youtu.be/ZFXhvy01SE4?t=41)
+    - [Gesture based](https://www.youtube.com/watch?v=T9ATJrZpvm0)
+    - [eyes](https://www.youtube.com/watch?v=6s2Ug-eVpVc), [brains](https://www.youtube.com/watch?v=U_WxaDHNw6I), etc
+
+
+
+
+## The roles of UI/UX designer
+
+Springboard.com has a [nice article](https://www.springboard.com/library/ui-ux-design/job-description/) about this.
+
+
+
+📺 This Is What A Typical Day In The Life Of A UX Designer Looks Like from **Career Foundry**
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ORZlHuD22UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
@@ -44,42 +103,3 @@ Did you notice the section with a stopwatch below the main heading at the top of
 - data analysis
 
 </div>
-
-
-
-
-
-## User interface (UI)
-
-
-
-[The World Is Our Interface – The Evolution of UI Design](https://www.toptal.com/designers/ui/touch-the-world-is-our-interface)
-
-- Physical UIs
-    - [Control panels](https://control--panel.com/)
-    - [Everyday objects](https://collection.sciencemuseumgroup.org.uk/search/objects/images/categories/domestic%20appliances)
-- Digital UIs
-    - [Text / Command Line Interfaces (CLI)](https://www.youtube.com/watch?v=4RPtJ9UyHS0)
-    - [Graphic User Interfaces (GUI)](https://www.youtube.com/watch?v=XIGSJshYb90)
-    - [Voice controlled User Interface](https://youtu.be/ZFXhvy01SE4?t=41)
-    - [Gesture based](https://www.youtube.com/watch?v=T9ATJrZpvm0)
-    - [eyes](https://www.youtube.com/watch?v=6s2Ug-eVpVc), [brains](https://www.youtube.com/watch?v=U_WxaDHNw6I), etc
-
-
-
-
-
-## User experience (UX)
-
-
-
-
-
-
-
-
-## The roles of UI/UX designer
-
-Springboard.com has a [nice article](https://www.springboard.com/library/ui-ux-design/job-description/) about this.
-
-

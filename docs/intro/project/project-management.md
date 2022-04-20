@@ -20,15 +20,15 @@ Here are **some key points** that may help us to ask the right questions **to an
 
 ## <span class="emojicon">❓</span> Questions to ask 
 
-- who is our **main contact** at client's side - it may sound silly, but sometimes it is not obvious
 - what is **the problem** we are solving - can we put it in **one sentence**?
+    - also ask yourselves, do you **know** or do you **think** what the problem is
 - what are **our goals** - what should be **different** after this project?
 - target **audience** 
 - what **have been done before** - branding, previous projects, research etc
 - **competitors** - what others are doing
 - the **budget** 
 - **deadline** 
-- other (partners, law (copyright), restrictions, cultural and other possibly important aspects)
+- **other** (partners, law (copyright), restrictions, cultural and other possibly important aspects)
 
 That was just a short list, more thorough articles can be found here:
 
@@ -59,7 +59,7 @@ Again - there is no one set of clear rules that applies for every case here. It 
 
 ### Estimating
 
-The key question here is - **how to estimate your work**, because often you have to agree on the price before the project starts. At least in big scale. It may be easier if you have more experience *(it's not!)*, but until then let's find out, what those who are more experienced say about this topic:
+The key question here is - **how to estimate your work**, because often you have to agree on the price before the project starts. At least in big scale. It may be easier if you have more experience, but until then let's find out, what those with more experience have said about this topic:
 
 - [How to estimate design work](https://uxdesign.cc/how-to-estimate-ux-design-254524e37f2b) - 👈 here is a good article about that 
 
@@ -78,5 +78,11 @@ With big projects it may be necessary to **break it up** to smaller parts and **
 Also, we have to make sure, **what are the "hidden costs"** in our project. 
 
 Do we have to pay for some extra images or illustrations? Who pays for hosting services? What if the amout of Google Map API queries exceeds the free plan? And all those 360° slow-motion drone videos... 
+
+
+
+## The Futur
+
+📺There is a great Youtube channel [The Futur](https://www.youtube.com/c/thefuturishere) about project management and business topics for creative teams. But they have more than just that.
 
 

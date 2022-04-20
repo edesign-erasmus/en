@@ -1,4 +1,4 @@
-# Accessibility *(ayy1)* 
+# Accessibility *(a11y)* 
 
 > *Accessibility in the sense considered here refers to the design of products, devices, services, or environments so as to be usable by people with disabilities.*
 > 
@@ -6,6 +6,7 @@
 
 *a11y?* What [that means](https://www.boia.org/blog/what-is-a11y)? 
 
+**Adobe XD Ideas** has also a good article: [What is Accessible Design?](https://xd.adobe.com/ideas/principles/web-design/what-is-accessible-design/)
 
 ## Disabilities
 
