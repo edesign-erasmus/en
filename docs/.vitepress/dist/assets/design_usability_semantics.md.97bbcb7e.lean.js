@@ -1,0 +1,1 @@
+import{o as e,c as a,b as t}from"./app.81d1f2af.js";const r='{"title":"Semantic code","description":"","frontmatter":{},"relativePath":"design/usability/semantics.md","lastUpdated":1641235787660}',o={},i=t('',4);o.render=function(t,r,o,n,s,c){return e(),a("div",null,[i])};export default o;export{r as __pageData};

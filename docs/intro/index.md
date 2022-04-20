@@ -24,7 +24,7 @@ Besides that, you can find a [**Introduction to 3D**](../3d/) module here.
 
 - Once inside any of the 4 Chapters, you'll find Topics and Subtopics of each chapter from the 👈 **left sidebar**.
 
-&nbsp;
+&nbsp;&nbsp;
 
 ::: tip
 
