@@ -47,4 +47,4 @@ jobs:
           force: true
           # We have to push from the folder where files were generated.
           # Same were the new repo was initialized in the previous step
-          directory: /docs/.vitepress/dist
+          directory: docs/.vitepress/dist
