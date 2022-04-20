@@ -1,0 +1,1 @@
+import{o as e,c as o,b as r}from"./app.81d1f2af.js";const t='{"title":"Version control","description":"","frontmatter":{},"relativePath":"frontend/tooling/versioning.md","lastUpdated":1637392029611}',n={},a=r('',5);n.render=function(r,t,n,i,s,l){return e(),o("div",null,[a])};export default n;export{t as __pageData};
