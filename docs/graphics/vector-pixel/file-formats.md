@@ -93,9 +93,11 @@ Where are we talking about ```<video>```?
 There are a bunch of different raster formats for web, but only one vector - the SVG
 
 - 📌[All you have to know about SVG](https://css-tricks.com/lodge/svg/) (and probably more)
+- 📌[Easy SVG Customization And Animation: A Practical Guide](https://www.smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/)
+
 
 ::: tip NOTE
-There is only one link, so you may think that there isn't much to talk about. But wait, just click and see!
+There is only a few links, so you may think that there isn't much to talk about. But wait, just read them and you'll discover a whole new world there!
 :::
 
 
