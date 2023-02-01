@@ -31,9 +31,9 @@ Where are we talking about ```<video>```?
 
 ## Exporting graphic assets
 
-- From [Photoshop](https://helpx.adobe.com/photoshop/using/export-artboards-layers.html)
-- From [Illustrator](https://vectortwist.com/asset-export-illustrator/)
 - From [Figma](https://help.figma.com/hc/en-us/articles/360040028114-Guide-to-exports-in-Figma) 
+- From [Illustrator](https://vectortwist.com/asset-export-illustrator/)
+- From [Photoshop](https://helpx.adobe.com/photoshop/using/export-artboards-layers.html)
 - From After Effects
     - As [animated GIF](https://www.schoolofmotion.com/blog/gif-in-after-effects)
     - Using [Lottie](https://lottiefiles.com/plugins/after-effects)
@@ -59,11 +59,12 @@ Where are we talking about ```<video>```?
         - [TinyPNG](https://tinypng.com/)
 - **[GIF](https://en.wikipedia.org/wiki/GIF)** - mostly for animations
     - [Animated GIFs](https://www.schoolofmotion.com/blog/gif-in-after-effects)
-- **[WebP](https://developers.google.com/speed/webp)**  
+- **[WebP](https://developers.google.com/speed/webp)** 📌
     - **Supports animation**
     - **Supports transparency**
     - [Better quality/size ratio](https://insanelab.com/blog/web-development/webp-web-design-vs-jpeg-gif-png/) than JPG or PNG
-    - Helper tools and utilities - although there is pretty good browser support, WebP is not very widely supported by the mainstream design programs. That's why we need some extra tools or utilities to generate the WebP files. 
+    - Helper tools and utilities - although there is pretty good browser support, WebP is not very widely supported by the mainstream design programs. That's why we need some extra tools or utilities to generate the WebP files.
+        - [AnyWebP Converter](https://anywebp.com/convert-to-webp.html) - simple, fast, easy to use
         - [Google converters](https://developers.google.com/speed/webp/docs/precompiled)
         - [Photoshop plugin](https://developers.google.com/speed/webp/docs/webpshop)
         - [CloudConvert](https://cloudconvert.com/webp-converter)
