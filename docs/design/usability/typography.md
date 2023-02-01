@@ -26,6 +26,8 @@ Another important part of UI design is **typography** i.e. how to **choose and u
 
 📌 If that's not enough, then try [**Typography Handbook**](https://typographyhandbook.com/)
 
+📌 Read these useful articles and practical guides from [**Pimp My Type**](https://pimpmytype.com/articles/)
+
 📌 And last, but not least &ndash; here is a **free online coure from [Better Web Type](https://betterwebtype.com/)**
 
 
