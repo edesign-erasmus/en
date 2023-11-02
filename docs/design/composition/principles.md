@@ -1,11 +1,5 @@
 # Principles of UI design 
 
-::: warning TODO 🛠️
-
-This should be named UI design principles and cover other principles too besides hierarchy
-
-:::
-
 There are some **key principles** of visual design, that we have to keep in mind while designing user interfaces. Different sources determine or name those principles little bit differently, but all of them teach us, how to **organize and emphasize the content** so that it is easier to consume.
 
 📺 Watch this introduction video from Google UX Design Certificate program: Understanding Visual Design Principles 
