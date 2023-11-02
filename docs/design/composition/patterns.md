@@ -16,6 +16,6 @@ If we start building user interfaces, we have to be familiar with **common usage
 - [UI Patterns](http://ui-patterns.com/patterns)
 - [Elements of Design](https://www.smileycat.com/category/elements-of-design/)
 - [MailChimp Patterns](https://ux.mailchimp.com/patterns/buttons)
-- [Little Big Details](https://twitter.com/littlebigdetail)
+- [Little Big Details](https://littlebigdetails.com/)
 
 
