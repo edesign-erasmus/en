@@ -95,6 +95,7 @@ There are a bunch of different raster formats for web, but only one vector - the
 
 - 📌[All you have to know about SVG](https://css-tricks.com/lodge/svg/) (and probably more)
 - 📌[Easy SVG Customization And Animation: A Practical Guide](https://www.smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/)
+- 📌[SVG.wtf: Online SVG visual/code editor/explorer](https://svg.wtf/?activeTab=gui)
 
 
 ::: tip NOTE
