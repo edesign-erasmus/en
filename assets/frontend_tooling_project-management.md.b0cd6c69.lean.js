@@ -1,0 +1,1 @@
+import{o as e,c as t,b as r}from"./app.81d1f2af.js";const a='{"title":"Project management","description":"","frontmatter":{},"relativePath":"frontend/tooling/project-management.md","lastUpdated":1723712345102}',o={},n=r('',10);o.render=function(r,a,o,i,s,l){return e(),t("div",null,[n])};export default o;export{a as __pageData};

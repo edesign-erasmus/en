@@ -1,0 +1,1 @@
+import{o as e,c as t,b as r}from"./app.81d1f2af.js";const i='{"title":"Usability","description":"","frontmatter":{},"headers":[{"level":2,"title":"5 key points","slug":"_5-key-points"}],"relativePath":"design/usability/usability.md","lastUpdated":1723712345098}',s={},o=r('',13);s.render=function(r,i,s,a,n,l){return e(),t("div",null,[o])};export default s;export{i as __pageData};

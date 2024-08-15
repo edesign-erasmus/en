@@ -1,0 +1,1 @@
+import{o as e,c as a,b as t}from"./app.81d1f2af.js";const r='{"title":"What is html?","description":"","frontmatter":{},"relativePath":"frontend/html/history.md","lastUpdated":1723712345098}',i={},n=t('',9);i.render=function(t,r,i,s,o,d){return e(),a("div",null,[n])};export default i;export{r as __pageData};
